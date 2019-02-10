@@ -4,7 +4,7 @@
 #pragma hdrstop
 USEFORM("fmain.cpp", FormXLock);
 //---------------------------------------------------------------------------
-WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
+WINAPI int WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 {
         try
         {
