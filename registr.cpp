@@ -1,7 +1,7 @@
 //---------------------------------------------------------------------------
 #include <vcl\vcl.h>
 #pragma hdrstop
-#include <vcl/registry.hpp>
+#include <rtl/registry.hpp>
 #include "registr.h"
 
 //---------------------------------------------------------------------------
